@@ -15,4 +15,4 @@ There are [lots of them](https://kata-log.rocks/tdd).
 ## Get Started Again
 
 Time-boxed is the way to do kata. Before you start a new one,
-    run `npm run reset` 
+    run `npm run reset` to lose all your work immediately.
