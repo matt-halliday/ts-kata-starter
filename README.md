@@ -6,7 +6,7 @@ There are [lots of them](https://kata-log.rocks/tdd).
 
 ## Get Started
 
-1. Fork or download this repo.
+1. Clone this repo.
 2. Run `npm i` to install things.
 3. Run `npm t` to test.
 4. Delete my nonsense function.
