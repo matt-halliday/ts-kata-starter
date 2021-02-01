@@ -15,4 +15,4 @@ There are [lots of them](https://kata-log.rocks/tdd).
 ## Get Started Again
 
 Time-boxed is the way to do kata. Before you start a new one,
-    run `git reset --hard origin/master` 
+    run `npm run reset` 
